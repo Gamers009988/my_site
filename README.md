@@ -1,4 +1,3 @@
-
 <html>
 <head>
   <title>Animal Facts</title>
@@ -38,7 +37,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Common_dolphin_delphinus_delphis_4.jpg" width="200" alt="Dolphin">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Common_dolphin_delphinus_delphis_2.jpg" width="200" alt="Dolphin">
       </td>
       <td>
         Dolphins give each other names — they create unique whistle sounds to identify other dolphins.
@@ -48,4 +47,3 @@
 
 </body>
 </html>
-  
